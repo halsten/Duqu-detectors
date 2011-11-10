@@ -1,6 +1,9 @@
 This script was written to aid in finding more DuQu drivers. The more drivers that are detected, the more we can find more about it. 
 All we ask for is that people collaborate and share the samples the tool will find on their computer to us and other researchers.
 
+(C) 2011 - NSS Labs [www.nsslabs.com]
+
+
 Usage: python DuquDriverPatterns.py [Directory you want to scan]
 
 example: python DuquDriverPatterns.py ./directoryOfMalware
